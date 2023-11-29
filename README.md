@@ -1,4 +1,5 @@
-A card matching game built using React
+A card matching game with touch functionality built using React.
+-> Used UseEffect, useState react hooks to implement various functionalities like card flipping, counting turns etc.
 
 # Getting Started with Create React App
 
